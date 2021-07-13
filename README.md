@@ -9,4 +9,5 @@
 name of the read | link to it
 ------------ | -------------
 read01 | [go to read01](https://ammarzeyad.github.io/reading-notes/read01)
-Content in the first column | Content in the second column
+MindSet | [go to mindset] (https://ammarzeyad.github.io/reading-notes/MindSet)
+read02  | [go to read02] (https://ammarzeyad.github.io/reading-notes/read02)
