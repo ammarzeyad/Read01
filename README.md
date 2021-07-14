@@ -11,3 +11,4 @@ name of the read | link to it
 read01 | [go to read01](https://ammarzeyad.github.io/reading-notes/read01)
 MindSet | [go to mindset](https://ammarzeyad.github.io/reading-notes/MindSet)
 read02  | [go to read02](https://ammarzeyad.github.io/reading-notes/read02)
+read03  | [go to read03](https://ammarzeyad.github.io/reading-notes/read03)
