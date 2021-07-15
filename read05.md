@@ -19,6 +19,43 @@ Logical operators are typically used with Boolean (logical) values; when they ar
 
 # 5 . String operators :
 In addition to the comparison operators, which can be used on string values, the concatenation operator (+) concatenates two string values together, returning another string that is the union of the two operand strings.
+
+# 6. Loops :
+ are used in JavaScript to perform repeated tasks based on a condition. Conditions typically return true or false when analysed. A loop will continue running until the defined condition returns false 
+
+
+ # -  while loop
+The while loop starts by evaluating the condition. If the condition is true, the statement(s) is/are executed. If the condition is false, the statement(s) is/are not executed. After that, while loop ends.
+
+Here is the syntax for while loop:
+
+Syntax:
+while (condition)
+
+{
+
+  statement(s);
+
+}
+
+# - Do-while loop
+The do...while loop is closely related to while loop. In the do while loop, the condition is checked at the end of the loop.
+
+Here is the syntax for do...while loop:
+
+Syntax:
+ do {
+
+   *Statement(s);*
+
+} while (*condition*);
+
+# - for-in loop
+The for...in statement iterates over the enumerable properties of an object, in arbitrary order. For each distinct property, statements can be executed.
+
+for (variable in object) {
+...
+}
 --- 
 
 
