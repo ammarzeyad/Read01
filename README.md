@@ -15,5 +15,5 @@ read03  | [go to read03](https://ammarzeyad.github.io/reading-notes/read03)
 read04  | [go to read04](https://ammarzeyad.github.io/reading-notes/read04)
 read05  | [go to read05](https://ammarzeyad.github.io/reading-notes/read05)
 read06  | [go to read06](https://ammarzeyad.github.io/reading-notes/read06)
- 
+read07  | [go to read07](https://ammarzeyad.github.io/reading-notes/read07)
  
