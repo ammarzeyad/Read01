@@ -18,13 +18,13 @@ read06  | [go to read06](https://ammarzeyad.github.io/reading-notes/read06)
 read07  | [go to read07](https://ammarzeyad.github.io/reading-notes/read07)
   
 
-  # 201d35 Reading Note 
+# 201d35 Reading Note 
 ## Tabel Of Content 
 
 
 name of the read | link to it
 ------------ | -------------
-read01  | [go to read01]( )
+Class01  | [Class 01](https://ammarzeyad.github.io/reading-notes/201d35%20reading%20notes/class01)
 read02  | [go to read02]( )
 read03  | [go to read03]( )
 read04  | [go to read04]( )
