@@ -23,27 +23,27 @@ This is used to contain the term being defined (the definition term).
 
 ## List in HTML
 
-![results](https://moonbooks.org/media/images/thumbnails_1000_1000/nested-list-html-01.PNG?lastmod=1620007653.643258)
+![results](https://moonbooks.org/media/images/src/nested-list-html-01.PNG)
 
-# BOXEX IN HTML
+## BOXEX IN HTML
 
 ## Block and inline boxes
 
 In CSS we broadly have two types of boxes — block boxes and inline boxes. These characteristics refer to how the box behaves in terms of page flow and in relation to other boxes on the page. Boxes also have an inner display type and an outer display type. First, we will explain what we mean by block box and inline box. We will then explain what is meant by an inner and outer display type.
 
-# Margin in html
+## Margin in html
 
 ### The `width` and `height` properties are respected
 
 ![results](https://ictacademy.com.ng/wp-content/uploads/2017/10/box-model.png)
 
-# Border - Color
+## Border - Color
 
 ![results](https://image.slidesharecdn.com/refreshdc-html5css3-090719085307-phpapp01/95/up-to-speed-on-html-5-and-css-3-42-728.jpg?cb=1252999046)
 
 -----------
 
-# What is JavaScript?
+## What is JavaScript?
 
 JavaScript ("JS" for short) is a full-fledged dynamic programming language that can add interactivity to a website. It was invented by Brendan Eich (co-founder of the Mozilla project, the Mozilla Foundation, and the Mozilla Corporation).
 
