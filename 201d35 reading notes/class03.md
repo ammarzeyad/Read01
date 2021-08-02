@@ -23,28 +23,6 @@ This is used to contain the term being defined (the definition term).
 
 ## List in HTML :
 
-<!DOCTYPE html>
-<html lang="en">
-
-`<head>`
-`<title>HTML Test Page</title>`
-`</head>`
-
-`<body>`
-
-`List of items:`
-`<ul>`
-  `<li>item 1</li>`
-  `<li>item 2</li>`
-  `<li>item 3</li>`
-  `<li>item 4</li>`
-  `<li>item 5</li>`
-`</ul>`
-
-`</body>`
-
-`</html>`
-
 ![results](https://moonbooks.org/media/images/thumbnails_1000_1000/nested-list-html-01.PNG?lastmod=1620007653.643258)
 
 # BOXEX IN HTML : 
