@@ -10,14 +10,14 @@
 
 name of the read | link to it
 ------------ | -------------
-MindSet | [go to mindset](https://ammarzeyad.github.io/READING-NOTES/102/MindSet)
-read01  | [go to read01](https://ammarzeyad.github.io/READING-NOTES/102/read01)
-read02  | [go to read02](https://ammarzeyad.github.io/READING-NOTES/102/read02)
-read03  | [go to read03](https://ammarzeyad.github.io/READING-NOTES/102/read03)
-read04  | [go to read04](https://ammarzeyad.github.io/READING-NOTES/102/read04)
-read05  | [go to read05](https://ammarzeyad.github.io/READING-NOTES/102/read05)
-read06  | [go to read06](https://ammarzeyad.github.io/READING-NOTES/102/read06)
-read07  | [go to read07](https://ammarzeyad.github.io/READING-NOTES/102/read07)
+MindSet | [go to mindset](https://ammarzeyad.github.io/reading-notes/102/MindSet)
+read01  | [go to read01](https://ammarzeyad.github.io/reading-notes/102/read01)
+read02  | [go to read02](https://ammarzeyad.github.io/reading-notes/102/read02)
+read03  | [go to read03](https://ammarzeyad.github.io/reading-notes/102/read03)
+read04  | [go to read04](https://ammarzeyad.github.io/reading-notes/102/read04)
+read05  | [go to read05](https://ammarzeyad.github.io/reading-notes/102/read05)
+read06  | [go to read06](https://ammarzeyad.github.io/reading-notes/102/read06)
+read07  | [go to read07](https://ammarzeyad.github.io/reading-notes/102/read07)
   
 - 201d35 Reading Note
 
@@ -25,7 +25,7 @@ read07  | [go to read07](https://ammarzeyad.github.io/READING-NOTES/102/read07)
 
 name of the read | link to it
 ------------ | -------------
-Class01  | [Class 01](https://ammarzeyad.github.io/READING-NOTES/201/class01)
-Class02  | [Class 02](https://ammarzeyad.github.io/READING-NOTES/201/class02)
-Class03  | [Class 03](https://ammarzeyad.github.io/READING-NOTES/201/class03)
-Class04  | [Class 04](https://ammarzeyad.github.io/READING-NOTES/201/class04)
+Class01  | [Class 01](https://ammarzeyad.github.io/reading-notes/201/class01)
+Class02  | [Class 02](https://ammarzeyad.github.io/reading-notes/201/class02)
+Class03  | [Class 03](https://ammarzeyad.github.io/reading-notes/201/class03)
+Class04  | [Class 04](https://ammarzeyad.github.io/reading-notes/201/class04)
