@@ -1,21 +1,18 @@
-# JavaScript : 
+# JavaScript
 
- 
- - def: 
+- def:
 
- Javascript (JS) is a scripting languages, primarily used on the Web. It is used to enhance HTML pages and is commonly found embedded in HTML code. JavaScript is an interpreted language. Thus, it doesn't need to be compiled. JavaScript renders web pages in an interactive and dynamic fashion. 
+ Javascript (JS) is a scripting languages, primarily used on the Web. It is used to enhance HTML pages and is commonly found embedded in HTML code. JavaScript is an interpreted language. Thus, it doesn't need to be compiled. JavaScript renders web pages in an interactive and dynamic fashion.
 
-
- - JavaScript Identifiers:
-
+- JavaScript Identifiers:
 
   1. All JavaScript variables must be identified with unique names.
 
-2. These unique names are called identifiers.
+  2. These unique names are called identifiers.
 
-3. Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).
+  3. Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).
 
- - JavaScript Data Types: 
+- JavaScript Data Types:
 
 1. JavaScript variables can hold numbers like 100 and text values like "John Doe".
 
@@ -27,6 +24,4 @@
 
 - JavaScript Arithmetic:
 
-
    1. As with algebra, you can do arithmetic with JavaScript variables, using operators like = and +:
-
