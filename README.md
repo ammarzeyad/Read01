@@ -25,7 +25,7 @@ read07  | [go to read07](https://ammarzeyad.github.io/reading-notes/read07)
 
 name of the read | link to it
 ------------ | -------------
-Class01  | [Class 01](https://ammarzeyad.github.io/reading-notes/201d35%20reading%20notes/class01)
-Class02  | [Class 02](https://ammarzeyad.github.io/reading-notes/201d35%20reading%20notes/class02 )
-Class03  | [Class03](https://ammarzeyad.github.io/reading-notes/201d35/class03)
-Class04  | [Class04](https://ammarzeyad.github.io/reading-notes/201d35/Read04)
+Class01  | [Class 01](https://ammarzeyad.github.io/READING-NOTES/201/class01)
+Class02  | [Class 02](https://ammarzeyad.github.io/READING-NOTES/201/class02)
+Class03  | [Class03](https://ammarzeyad.github.io/READING-NOTES/201/class03)
+Class04  | [Class04](https://ammarzeyad.github.io/READING-NOTES/201/class04)
