@@ -28,3 +28,6 @@ name of the read | link to it
 Class01  | [Class 01](https://ammarzeyad.github.io/reading-notes/201d35%20reading%20notes/class01)
 Class02  | [Class 02](https://ammarzeyad.github.io/reading-notes/201d35%20reading%20notes/class02)
 Class03  | [Class 03](https://ammarzeyad.github.io/reading-notes/201d35%20reading%20notes/class03)
+Class04  | [Class 04](https://ammarzeyad.github.io/reading-notes/201d35%20reading%20notes/class04)
+Class05  | [Class 05](https://ammarzeyad.github.io/reading-notes/201d35%20reading%20notes/class05)
+Class06  | [Class 06](https://ammarzeyad.github.io/reading-notes/201d35%20reading%20notes/class06)
