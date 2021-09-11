@@ -47,4 +47,4 @@ Class14b  | [Class 14b](https://ammarzeyad.github.io/reading-notes/201/class14b)
 
 name of the read | link to it
 ------------ | -------------
-Class 1  | [Class 1](https://ammarzeyad.github.io/reading-notes/201/class01)
+Class 1  | [Class 1](https://ammarzeyad.github.io/reading-notes/301/class01)
