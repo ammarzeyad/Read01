@@ -48,3 +48,4 @@ Class14b  | [Class 14b](https://ammarzeyad.github.io/reading-notes/201/class14b)
 name of the read | link to it
 ------------ | -------------
 Class1  | [Class1](https://ammarzeyad.github.io/reading-notes/301/Class1)
+Class2  | [Class2](https://ammarzeyad.github.io/reading-notes/301/Class2)
