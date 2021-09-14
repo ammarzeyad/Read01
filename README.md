@@ -50,3 +50,4 @@ name of the read | link to it
 Class1  | [Class1](https://ammarzeyad.github.io/reading-notes/301/Class1)
 Class2  | [Class2](https://ammarzeyad.github.io/reading-notes/301/Class2)
 Class3  | [Class3](https://ammarzeyad.github.io/reading-notes/301/Class3)
+Class4  | [Class4](https://ammarzeyad.github.io/reading-notes/301/Class4)
