@@ -40,7 +40,7 @@
 
 ## What is Authorization Code Flow?
 
-- Authorization code flow is used to obtain an access token to authorize API requests. ... Access tokens while having a limited lifetime, can be renewed with a refresh token. A refresh token is valid indefinitely and provides ability for your application to schedule tasks on behalf of a user without their interaction.
+- Authorization code flow is used to obtain an access token to authorize API requests. ... Access tokens while having a lim ited lifetime, can be renewed with a refresh token. A refresh token is valid indefinitely and provides ability for your application to schedule tasks on behalf of a user without their interaction.
 
 ## What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
 
