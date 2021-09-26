@@ -14,7 +14,9 @@
 
 ## Give a real world example?
 
-- idk
+- MySql
+- Oracle
+- Sqlite
 
 ## What kind of data is a good fit a NoSQL database?
 
@@ -22,7 +24,9 @@
 
 ## Give an real world example?
 
-- idk
+- MongoDB
+- BigTable
+- Redis
 
 ## Which type of database is best for hierarchical data storage?
 
@@ -31,3 +35,19 @@
 ## Which type of database is best for scalability?
 
 - In most typical situations, SQL databases are vertically scalable.
+
+## What does SQL stand for ?
+
+- Structured Query Language
+
+## What is a relational database ?
+
+- type of database that stores and provides access to data points that are related to one another.
+
+## What is a ‘schema’ ?
+
+- A database schema is an abstract design that represents the storage of your data in a database.
+
+## What is a NoSQL database ?
+
+- NoSQL databases are primarily referred to as Non-relational or Distributed Database.
